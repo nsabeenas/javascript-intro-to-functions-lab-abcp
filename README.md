@@ -1,7 +1,3 @@
-JavaScript Intro to Functions Lab
----
-
-## Objectives
 
 1. Practice writing functions
 2. Explain basics of working with strings
